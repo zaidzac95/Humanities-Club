@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0447596b1a67de49ba5720fda0bdabe, type: 3}
+  m_Name: Humanities owl
+  m_EditorClassIdentifier: 
+  characterName: Humanities owl
+  brain: workspaces/humanities_club/characters/humanities_owl
+  avatar: {fileID: 0}
+  workspace: workspaces/humanities_club
+  currentScene: workspaces/humanities_club/characters/humanities_owl
+  ownerShip: 0
+  defaultThumbnail: {fileID: 2800000, guid: 3b237e237e5fda04fbfc7bf2b64d78d7, type: 3}
+  index: 0
+  triggers: []
+  scenes:
+  - workspaces/humanities_club/scenes/humanities_club
+  modelUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_model/7a21502a-5fbd-4922-8c04-7f36e611b3c2.glb
+  posUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/7a21502a-5fbd-4922-8c04-7f36e611b3c2_posture.jpg
+  previewImgUri: https://storage.googleapis.com/inworld-ai-usercontent-prod/rpm_image/7a21502a-5fbd-4922-8c04-7f36e611b3c2_portrait.jpg
+  characterID: 8abe8fda-38d9-4c81-a311-9eb89bc2219a
